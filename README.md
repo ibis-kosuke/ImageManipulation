@@ -2,7 +2,7 @@
 
 ## Text guided image manipulation
 
-###code: code for CUB-200-2011 and Oxford flower 102
+### code: codes for CUB-200-2011 and Oxford flower 102
 
 
-###code_coco: code for COCO
+### code_coco: codes for COCO
